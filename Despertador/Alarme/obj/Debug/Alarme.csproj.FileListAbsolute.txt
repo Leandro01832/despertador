@@ -1,0 +1,9 @@
+D:\codigo-github\Despertador\Despertador\Alarme\bin\Debug\Alarme.exe.config
+D:\codigo-github\Despertador\Despertador\Alarme\bin\Debug\Alarme.exe
+D:\codigo-github\Despertador\Despertador\Alarme\bin\Debug\Alarme.pdb
+D:\codigo-github\Despertador\Despertador\Alarme\obj\Debug\Alarme.FormDesperta.resources
+D:\codigo-github\Despertador\Despertador\Alarme\obj\Debug\Alarme.Properties.Resources.resources
+D:\codigo-github\Despertador\Despertador\Alarme\obj\Debug\Alarme.csproj.GenerateResource.cache
+D:\codigo-github\Despertador\Despertador\Alarme\obj\Debug\Alarme.csproj.CoreCompileInputs.cache
+D:\codigo-github\Despertador\Despertador\Alarme\obj\Debug\Alarme.exe
+D:\codigo-github\Despertador\Despertador\Alarme\obj\Debug\Alarme.pdb
